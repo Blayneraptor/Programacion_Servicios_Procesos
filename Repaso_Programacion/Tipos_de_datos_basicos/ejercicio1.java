@@ -1,9 +1,11 @@
 package Repaso_Programacion.Tipos_de_datos_basicos;
 
-/*### 📝 Ejercicio 1:
+/* Ejercicio 1:
 - Crea un programa que solicite al usuario introducir su edad y su altura.
 - La edad debe almacenarse en una variable de tipo `int`, y la altura en una variable de tipo `double`.
-- Imprime ambos valores con un mensaje apropiado.*/
+- Imprime ambos valores con un mensaje apropiado.
+
+Autor: Jose P. Couso Pérez*/
 
 public class ejercicio1 {
 
