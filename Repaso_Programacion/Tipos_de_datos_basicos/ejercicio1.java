@@ -3,9 +3,9 @@ package Repaso_Programacion.Tipos_de_datos_basicos;
 import java.util.*;
 
 /* Ejercicio 1:
-- Crea un programa que solicite al usuario introducir su edad y su altura.
-- La edad debe almacenarse en una variable de tipo `int`, y la altura en una variable de tipo `double`.
-- Imprime ambos valores con un mensaje apropiado.
+ Crea un programa que solicite al usuario introducir su edad y su altura.
+ La edad debe almacenarse en una variable de tipo `int`, y la altura en una variable de tipo `double`.
+ Imprime ambos valores con un mensaje apropiado.
 
 Autor: Jose P. Couso Pérez*/
 
