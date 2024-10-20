@@ -9,6 +9,7 @@ Crea una instancia de esta clase en el main y llama al método mostrarCaracteris
 
 Autor: Jose P. Couso Pérez*/
 
+
 public class ejercicio1 {
 
 }
