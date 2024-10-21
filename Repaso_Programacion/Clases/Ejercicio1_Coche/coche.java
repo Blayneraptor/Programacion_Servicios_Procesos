@@ -1,4 +1,4 @@
-package Repaso_Programacion.Clases.Ejercicio1;
+package Repaso_Programacion.Clases.Ejercicio1_Coche;
 
 /* Ejercicio 1:
 Define una clase Coche que tenga como atributos el modelo y la velocidadMaxima.

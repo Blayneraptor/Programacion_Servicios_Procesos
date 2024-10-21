@@ -1,4 +1,4 @@
-package Repaso_Programacion.Clases.Ejercicio1;
+package Repaso_Programacion.Clases.Ejercicio1_Coche;
 
 public class maincoche {
     public static void main(String[] args) {
