@@ -19,6 +19,22 @@ class Coche {
         this.velocidadMaxima = velocidadMaxima;
     }
 
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    public int getVelocidadMaxima() {
+        return velocidadMaxima;
+    }
+
+    public void setVelocidadMaxima(int velocidadMaxima) {
+        this.velocidadMaxima = velocidadMaxima;
+    }
+
     // Método para mostrar las características del coche
     public void mostrarCaracteristicas() {
         System.out.println("Modelo: " + modelo);
