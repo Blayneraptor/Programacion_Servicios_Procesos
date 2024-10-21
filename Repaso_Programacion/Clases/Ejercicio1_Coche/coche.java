@@ -41,5 +41,3 @@ class Coche {
         System.out.println("Velocidad Máxima: " + velocidadMaxima + " km/h");
     }
 }
-
- 
