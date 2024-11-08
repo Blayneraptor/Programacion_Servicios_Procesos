@@ -4,7 +4,7 @@ package Repaso_Programacion.Arrays;
 - Llena el array con números aleatorios del 1 al 100 y luego imprime todos los elementos del array en orden.
 - A continuación, imprime los elementos del array en orden inverso.
 
-Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 import java.util.Random;
 

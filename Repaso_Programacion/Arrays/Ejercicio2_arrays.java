@@ -3,7 +3,7 @@ package Repaso_Programacion.Arrays;
 /*- Crea una función que reciba un array de enteros y devuelva la suma de todos sus elementos.
 - Utiliza esta función en el método `main` para sumar los elementos de un array que hayas llenado previamente con valores aleatorios.
 
-Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor"  */
 
 import java.util.Random;
 

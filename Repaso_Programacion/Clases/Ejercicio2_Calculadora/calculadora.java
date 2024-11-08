@@ -5,7 +5,7 @@ package Repaso_Programacion.Clases.Ejercicio2_Calculadora;
  multiplicar y dividir dos números pasados como parámetros. Luego, crea
  una instancia de esta clase en el main y utiliza cada uno de los métodos.
 
-Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Definición de la clase Calculadora
 class Calculadora {

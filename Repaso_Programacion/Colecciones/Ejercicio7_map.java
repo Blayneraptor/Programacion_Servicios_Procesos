@@ -8,7 +8,7 @@ import java.util.Scanner;
  2. Muestre el contenido del Map.
  3. Solicite al usuario una palabra y muestre su sinónimo si está en el Map, o un mensaje indicando que no se encontró. 
  
- Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio7_map {
     public static void main(String[] args) {

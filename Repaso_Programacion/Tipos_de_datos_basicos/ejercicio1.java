@@ -7,7 +7,7 @@ import java.util.*;
  La edad debe almacenarse en una variable de tipo `int`, y la altura en una variable de tipo `double`.
  Imprime ambos valores con un mensaje apropiado.
 
-Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class ejercicio1 {
 

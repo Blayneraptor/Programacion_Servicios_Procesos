@@ -5,7 +5,7 @@ package Repaso_Programacion.Herencia;
  atributo numeroDePuertas. Implementa los métodos para obtener y establecer el valor de los atributos. Crea instancias de Coche y utiliza los
  métodos heredados y propios.
  
- Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 class Vehiculo {
     // Atributos

@@ -6,7 +6,7 @@ package Repaso_Programacion.Strings;
  3. Crea un substring de la primera cadena que contenga los primeros 5 caracteres y muestra este nuevo substring por consola.
  4. Reemplaza todas las letras 'a' de la segunda cadena por el carácter '@' y muestra el resultado por consola.
  
-  Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio2_strings {
     public static void main(String[] args) {

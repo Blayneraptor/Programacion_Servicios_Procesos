@@ -1,5 +1,10 @@
 package Repaso_Programacion.Clases.Ejercicio2_Calculadora;
 
+/*Crea una clase Calculadora que contenga métodos para sumar, restar, multiplicar y dividir dos números pasados como parámetros.
+ Luego, crea una instancia de esta clase en el main y utiliza cada uno de los métodos.
+
+ Autor: Jose P. Couso "Blayneraptor"  */
+
 public class calculadoraMain {
 
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ import java.util.TreeMap;
  2. Añada varias palabras al Map, incrementando el contador cada vez que se añade una palabra repetida.
  3. Muestre el Map para ver las palabras ordenadas y su frecuencia 
  
- Autor: Jose P. Couso Pérez  */
+  Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio8_treemap {
     public static void main(String[] args) {

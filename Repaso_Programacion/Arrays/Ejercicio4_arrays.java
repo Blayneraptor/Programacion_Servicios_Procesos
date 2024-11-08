@@ -3,7 +3,7 @@ package Repaso_Programacion.Arrays;
 /*- Escribe un programa que defina una matriz de 4x4 y la llene con números secuenciales del 1 al 16.
 - Luego, calcula e imprime la suma de los elementos de la diagonal principal (de arriba a la izquierda hacia abajo a la derecha).
 
-Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio4_arrays{
     public static void main(String[] args) {

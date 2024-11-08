@@ -9,7 +9,7 @@ import java.util.Scanner;
  4. Pide al usuario que introduzca un carácter y busca ese carácter en la cadena concatenada, mostrando la posición en la que se encuentra.
  Si no se encuentra, muestra un mensaje indicando que el carácter no está presente 
  
- Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio1_strings {
     public static void main(String[] args) {

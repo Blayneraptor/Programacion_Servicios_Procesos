@@ -3,7 +3,7 @@ package Repaso_Programacion.Arrays;
 /*- Crea una matriz de 3x3 de tipo `int` y llénala con números aleatorios del 1 al 9.
 - Después, imprime la matriz en formato de cuadrícula, mostrando los números en su disposición de filas y columnas.
 
-Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 import java.util.Random;
 

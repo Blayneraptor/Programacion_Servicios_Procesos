@@ -4,7 +4,7 @@ package Repaso_Programacion.Polimorfismo;
 - Luego, crea las clases `Perro` y `Gato` que extiendan de `Animal` y sobrescriban el método `hacerSonido()` para que el Perro "ladre" y el Gato "maúlle".
 - Demuestra polimorfismo creando un método que acepte un objeto `Animal` y llame a `hacerSonido()`.
 
-Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Clase base Animal
 abstract class Animal {

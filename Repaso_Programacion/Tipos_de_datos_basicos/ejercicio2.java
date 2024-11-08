@@ -8,7 +8,7 @@ import java.util.Scanner;
  programa debe mostrar el resultado en Fahrenheit utilizando el tipo double.
  La fórmula para la conversión es F = C * 9/5 + 32.
 
-Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class ejercicio2 {
 

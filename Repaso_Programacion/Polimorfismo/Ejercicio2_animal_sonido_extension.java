@@ -3,7 +3,7 @@ package Repaso_Programacion.Polimorfismo;
 /*- Extiende el ejercicio anterior añadiendo una nueva clase `Vaca` que herede de `Animal` y sobrescriba el método `hacerSonido()` para que diga "Muuu".
 - Añade una instancia de `Vaca` al método `main` y utiliza el método `hacerSonido()` para demostrar el polimorfismo.
 
-Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Clase base Animal
 abstract class Animal {

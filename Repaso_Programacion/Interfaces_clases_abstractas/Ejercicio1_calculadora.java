@@ -3,7 +3,7 @@ package Repaso_Programacion.Interfaces_clases_abstractas;
 /*Crea una interfaz `OperacionesMatematicas` con métodos para sumar, restar, multiplicar y dividir dos números.
 Luego crea una clase `Calculadora` que implemente esta interfaz y proporcione la implementación de estos métodos.
 
-Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor"  */
 
 // Definir la interfaz OperacionesMatematicas
 interface OperacionesMatematicas {

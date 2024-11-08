@@ -10,7 +10,7 @@ import java.util.TreeSet;
  4. Pida al usuario un número y utilice higher() y lower() para encontrar el siguiente número más alto y el anterior número más bajo en el
  conjunto, respectivamente.
  
- Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor"  */
 
 public class Ejercicio4_treeset {
     public static void main(String[] args) {

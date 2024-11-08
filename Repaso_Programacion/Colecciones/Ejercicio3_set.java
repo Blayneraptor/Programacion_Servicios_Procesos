@@ -8,7 +8,7 @@ import java.util.Scanner;
  2. Muestre el conjunto para que se vea que los duplicados se eliminan automáticamente.
  3. Solicite al usuario un nombre y compruebe si está en el conjunto, mostrando un mensaje adecuado
  
- Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio3_set {
 

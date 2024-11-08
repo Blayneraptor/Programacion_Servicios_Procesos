@@ -16,7 +16,7 @@ package Repaso_Programacion.Herencia;
  ◦ Atributos específicos: capacidad de carga en toneladas.
  ◦ Métodos: Debe sobrescribir mostrarDatos() para incluir la capacidad de carga.
 
-Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Clase base Vehiculo
 class Vehiculo {

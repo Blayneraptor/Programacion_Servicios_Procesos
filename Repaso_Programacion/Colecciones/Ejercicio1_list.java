@@ -7,7 +7,7 @@ package Repaso_Programacion.Colecciones;
  4. Elimine el tercer elemento de la lista y muestre la lista actualizada.
  5. Ordene la lista en orden ascendente y muestre el resultado.
  
-  Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 import java.util.ArrayList;
 import java.util.Collections;

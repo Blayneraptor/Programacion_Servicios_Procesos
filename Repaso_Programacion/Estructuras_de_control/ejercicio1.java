@@ -7,7 +7,7 @@ Crea un programa que pida al usuario un número y determine si es par o impar
 utilizando una estructura if-else. Además, el programa debe permitir al usuario introducir 
 números hasta que ingrese un 0, momento en el cual el programa terminará.
 
-Autor: Jose P. Couso Pérez*/
+  Autor: Jose P. Couso "Blayneraptor" */
 
 public class ejercicio1 {
 

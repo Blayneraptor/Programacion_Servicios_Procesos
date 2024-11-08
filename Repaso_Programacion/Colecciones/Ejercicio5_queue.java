@@ -8,7 +8,7 @@ import java.util.Queue;
  2. Muestre la cola completa.
  3. Procese la cola mostrando y eliminando cada tarea por el orden en que fueron añadidas, usando el método poll().
  
- Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor"  */
 
 public class Ejercicio5_queue {
     public static void main(String[] args) {

@@ -11,7 +11,7 @@ import java.util.Scanner;
  4. Solicite al usuario una cadena de texto para buscar en la lista y muestre si está o no presente.
  5. Invierta el orden de los elementos en la lista y muestre el resultado
 
- Autor: Jose P. Couso Pérez   */
+ Autor: Jose P. Couso "Blayneraptor"  */
 
 public class Ejercicio2_linkedlist {
     public static void main(String[] args) {

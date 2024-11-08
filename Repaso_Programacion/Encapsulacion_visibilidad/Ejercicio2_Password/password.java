@@ -5,7 +5,7 @@ La clase debe tener un atributo privado password de tipo String.
 Implementa un método cambiarPassword(String nuevoPassword) que permita cambiar la contraseña solo si la nueva cumple con ciertos criterios (por ejemplo, mínimo 8 caracteres y al menos un número).
 Incluye también un método esFuerte() que determine si la contraseña tiene al menos 2 dígitos y 1 carácter especial.
 
-Autor: Jose P. Couso Pérez*/
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class password {
     // Atributo privado

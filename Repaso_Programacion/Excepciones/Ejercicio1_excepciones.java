@@ -9,7 +9,7 @@ import java.util.Scanner;
  dividir por cero.
  4. Asegúrese de que, después de una excepción, el programa siga funcionando y permita al usuario intentar de nuevo con nuevos números.
  
- Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio1_excepciones {
 

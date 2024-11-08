@@ -10,7 +10,7 @@ import java.util.Scanner;
  invitándolo a ingresar un valor válido.
  5. El programa debe continuar solicitando la edad hasta que se ingrese un valor válido
  
- Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Paso 1: Definir la clase de excepción personalizada
 class InvalidInputException extends Exception {

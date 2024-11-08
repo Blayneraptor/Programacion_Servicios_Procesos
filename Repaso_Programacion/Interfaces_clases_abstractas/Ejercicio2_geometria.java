@@ -4,7 +4,7 @@ package Repaso_Programacion.Interfaces_clases_abstractas;
 - Crea clases `Circulo`, `Rectangulo` y `Triangulo` que extiendan `FiguraGeometrica` y proporcionen implementaciones concretas para `calcularArea()`.
 - Crea una instancia de cada clase y muestra cómo se calculan las diferentes áreas.
 
-Autor: Jose P. Couso Pérez */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 // Clase abstracta FiguraGeometrica
 abstract class FiguraGeometrica {

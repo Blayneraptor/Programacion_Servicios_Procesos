@@ -9,7 +9,7 @@ import java.util.Random;
  3. Muestre cómo, al recuperar y eliminar los elementos con poll(), se obtienen en un orden basado en su prioridad natural (menor a
  mayor)
 
- Autor: Jose P. Couso Pérez  */
+ Autor: Jose P. Couso "Blayneraptor" */
 
 public class Ejercicio6_priorityqueue {
     public static void main(String[] args) {
