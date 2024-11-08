@@ -4,8 +4,7 @@ package Repaso_Programacion.Ficheros;
 - Lee un archivo de texto "texto.txt" y cuenta el número de palabras que contiene.
 - Asume que las palabras están separadas por espacios.
 
-  Autor: Jose P. Couso "Blayneraptor"
-*/
+  Autor: Jose P. Couso "Blayneraptor" */
 
 import java.io.BufferedReader;
 import java.io.FileReader;
